@@ -2,4 +2,4 @@
 
 ### Expected Outcome
 
-![Project Snapshot](./img/chrome-capture-2024-6-5.gif)
+![Project Snapshot](./img/chrome-capture-2024-8-8.gif)
